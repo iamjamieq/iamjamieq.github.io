@@ -113,6 +113,20 @@ MD5sum: e31156a771602d05e934bf25027268d8
 Sponsor: 
 Description: Hides rotation lock icon from status bar. 
 
+Package: com.iamjamieq.iamjamieqfingaltheme
+Name: iamjamieq's Fingal Theme
+Architecture: iphoneos-arm
+Depiction: 
+Maintainer: 
+Author: iamjamieq <jameslitvak@gmail.com>
+Version: 1.0-1
+Section: Addons (Lithium)
+Filename: /debs/com.iamjamieq.iamjamieqfingaltheme_1.0-1_iphoneos-arm.deb
+Size: 724402
+MD5sum: 321e36b4323a0f6de4d93f9374fb8f80
+Sponsor: 
+Description: iamjamieq's Fingal Theme
+
 Package: com.iamjamieq.kitkatbatteryfullcolor
 Name: KitKat Battery Full Color
 Architecture: iphoneos-arm
@@ -549,4 +563,4 @@ MD5sum: c1852a7e9ae0b74f477ba219898220ac
 Sponsor: 
 Description: The Taken King Destiny for Zeppelin
 
->>>>>>> ac6108f4d12e12db84f4e8caa1977fb28c76d977
+>>>>>>> 7b06fb5685f7a418459f7618fd469829f8cc944b
