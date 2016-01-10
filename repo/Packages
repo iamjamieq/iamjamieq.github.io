@@ -119,11 +119,11 @@ Architecture: iphoneos-arm
 Depiction: 
 Maintainer: 
 Author: iamjamieq <jameslitvak@gmail.com>
-Version: 1.0-2
+Version: 1.0-3
 Section: Addons (Lithium)
-Filename: /debs/com.iamjamieq.iamjamieqfingaltheme_1.0-2_iphoneos-arm.deb
-Size: 810812
-MD5sum: 254b6140d48c69f26d170863b5430468
+Filename: /debs/com.iamjamieq.iamjamieqfingaltheme_1.0-3_iphoneos-arm.deb
+Size: 988936
+MD5sum: dae91dc5b087f61cfd38f4688b5644aa
 Sponsor: 
 Description: iamjamieq's Fingal Theme
 
@@ -563,4 +563,4 @@ MD5sum: c1852a7e9ae0b74f477ba219898220ac
 Sponsor: 
 Description: The Taken King Destiny for Zeppelin
 
->>>>>>> d548452b9103364d22e096642b47a352c274caed
+>>>>>>> 6143ee8abf3d182d0566341f9e9374a50b7b38ef
