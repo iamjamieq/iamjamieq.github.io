@@ -123,7 +123,7 @@ Version: 1.0-6
 Section: Addons (Fingal)
 Filename: /debs/com.iamjamieq.iamjamieqfingalicons_1.0-6_iphoneos-arm.deb
 Size: 1251388
-MD5sum: 297e86c5d176b995412d8ff27125a419
+MD5sum: e241ead737fa0e26ab35a50f9dfa1d03
 Sponsor: 
 Description: iamjamieq's Fingal icons as individual themes
 
@@ -137,7 +137,7 @@ Version: 1.0-6
 Section: Addons (Fingal)
 Filename: /debs/com.iamjamieq.iamjamieqfingaltheme_1.0-6_iphoneos-arm.deb
 Size: 1325590
-MD5sum: 313c76e9b17490b21bbc2fb74e383665
+MD5sum: bb3b7cb1947fd2d21f66fd4d998c2f4c
 Sponsor: 
 Description: iamjamieq's Fingal icons all in one theme
 
@@ -577,4 +577,4 @@ MD5sum: c1852a7e9ae0b74f477ba219898220ac
 Sponsor: 
 Description: The Taken King Destiny for Zeppelin
 
->>>>>>> e96d66553bb21d4f8c7c4f7cf149aaac5e870942
+>>>>>>> f8d28a3ec386ade507b7cf8de991da868ac067f7
