@@ -119,11 +119,11 @@ Architecture: iphoneos-arm
 Depiction: 
 Maintainer: 
 Author: iamjamieq <jameslitvak@gmail.com>
-Version: 1.0-7
+Version: 1.0-8
 Section: Addons (Fingal)
-Filename: /debs/com.iamjamieq.iamjamieqfingalicons_1.0-7_iphoneos-arm.deb
-Size: 1409074
-MD5sum: 1fb69727405ac7772df18f441ff9450a
+Filename: /debs/com.iamjamieq.iamjamieqfingalicons_1.0-8_iphoneos-arm.deb
+Size: 151802
+MD5sum: 0d454b2b0fda88a2029da462316193fe
 Sponsor: 
 Description: iamjamieq's Fingal icons as individual themes
 
@@ -133,11 +133,11 @@ Architecture: iphoneos-arm
 Depiction: 
 Maintainer: 
 Author: iamjamieq <jameslitvak@gmail.com>
-Version: 1.0-7
+Version: 1.0-8
 Section: Addons (Fingal)
-Filename: /debs/com.iamjamieq.iamjamieqfingaltheme_1.0-7_iphoneos-arm.deb
+Filename: /debs/com.iamjamieq.iamjamieqfingaltheme_1.0-8_iphoneos-arm.deb
 Size: 1477016
-MD5sum: ffeccf91beda1871fb4f612ae92f19a3
+MD5sum: 683bef7dd7d043c6c898c6e222033f82
 Sponsor: 
 Description: iamjamieq's Fingal icons all in one theme
 
@@ -577,4 +577,4 @@ MD5sum: c1852a7e9ae0b74f477ba219898220ac
 Sponsor: 
 Description: The Taken King Destiny for Zeppelin
 
->>>>>>> 3749c6c88e290f9c338cd5345460369ae1d3f87c
+>>>>>>> 8e1fee4751fdf85be5fbcebd0bd09681d598ad0b
