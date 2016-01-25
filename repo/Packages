@@ -122,7 +122,7 @@ Author: iamjamieq <jameslitvak@gmail.com>
 Version: 1.0-8
 Section: Addons (Fingal)
 Filename: /debs/com.iamjamieq.iamjamieqfingalicons_1.0-8_iphoneos-arm.deb
-Size: 151802
+Size: 1515802
 MD5sum: 0d454b2b0fda88a2029da462316193fe
 Sponsor: 
 Description: iamjamieq's Fingal icons as individual themes
@@ -577,4 +577,4 @@ MD5sum: c1852a7e9ae0b74f477ba219898220ac
 Sponsor: 
 Description: The Taken King Destiny for Zeppelin
 
->>>>>>> 8e1fee4751fdf85be5fbcebd0bd09681d598ad0b
+>>>>>>> 13f35d66f472c678a7d587832783e9c9010e1842
