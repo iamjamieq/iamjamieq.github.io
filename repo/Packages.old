@@ -83,6 +83,7 @@ MD5sum: e75b397161e54cfbb8276e509f742a97
 Sponsor: 
 Description: GradBatt for Lithium
 
+
 Package: com.iamjamieq.habeshacolor
 Name: Habesha Color for Lithium
 Architecture: iphoneos-arm
@@ -110,7 +111,7 @@ Filename: /debs/com.iamjamieq.hiderotationlockicon_1.0-3_iphoneos-arm.deb
 Size: 3374
 MD5sum: e31156a771602d05e934bf25027268d8
 Sponsor: 
-Description: Hides rotation lock icon from status bar. 
+Description: Hides rotation lock icon from status bar.
 
 Package: com.iamjamieq.iamjamieqfingalicons
 Name: iamjamieq's Fingal Icons
@@ -120,11 +121,12 @@ Maintainer:
 Author: iamjamieq <jameslitvak@gmail.com>
 Version: 1.0-13
 Section: Addons (Fingal)
+Depends: 
 Filename: /debs/com.iamjamieq.iamjamieqfingalicons_1.0-13_iphoneos-arm.deb
 Size: 3996392
 MD5sum: 8340bafb2e8d0fbe736cf04e8b27099a
 Sponsor: 
-Description: iamjamieq's Fingal icons as individual themes
+Description: Fingal icons as individual themes
 
 Package: com.iamjamieq.kitkatbatteryfullcolor
 Name: KitKat Battery Full Color
@@ -562,4 +564,4 @@ MD5sum: c1852a7e9ae0b74f477ba219898220ac
 Sponsor: 
 Description: The Taken King Destiny for Zeppelin
 
->>>>>>> 67a052662167e96ee27392c523b839afd15a99b7
+>>>>>>> a7ce6c5c9106de91f5885391cdbadb5889a57a3c
