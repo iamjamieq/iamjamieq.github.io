@@ -119,10 +119,10 @@ Architecture: iphoneos-arm
 Depiction: 
 Maintainer: 
 Author: iamjamieq <jameslitvak@gmail.com>
-Version: 1.0-10Section: Addons (Fingal)
-Filename: /debs/com.iamjamieq.fingalicons_1.0-10_iphoneos-arm.deb
-Size: 1872584
-MD5sum: 96e492e61d21fb7627fc6150ec260677
+Version: 1.0-12Section: Addons (Fingal)
+Filename: /debs/com.iamjamieq.fingalicons_1.0-12_iphoneos-arm.deb
+Size: 3996392
+MD5sum: b65d9eaee4eea958e3678fa8dddb3f52
 Sponsor: 
 Description: iamjamieq's Fingal icons as individual themes
 
