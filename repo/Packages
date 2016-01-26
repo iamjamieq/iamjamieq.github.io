@@ -111,7 +111,7 @@ Filename: /debs/com.iamjamieq.hiderotationlockicon_1.0-3_iphoneos-arm.deb
 Size: 3374
 MD5sum: e31156a771602d05e934bf25027268d8
 Sponsor: 
-Description: Hides rotation lock icon from status bar. 
+Description: Hides rotation lock icon from status bar.
 
 Package: com.iamjamieq.iamjamieqfingalicons
 Name: iamjamieq's Fingal Icons
@@ -119,12 +119,12 @@ Architecture: iphoneos-arm
 Depiction: 
 Maintainer: 
 Author: iamjamieq <jameslitvak@gmail.com>
-Version: 1.0-12
+Version: 1.0-13
 Section: Addons (Fingal)
 Depends: 
-Filename: /debs/com.iamjamieq.iamjamieqfingalicons_1.0-12_iphoneos-arm.deb
+Filename: /debs/com.iamjamieq.iamjamieqfingalicons_1.0-13_iphoneos-arm.deb
 Size: 3996392
-MD5sum: b65d9eaee4eea958e3678fa8dddb3f52
+MD5sum: 8340bafb2e8d0fbe736cf04e8b27099a
 Sponsor: 
 Description: Fingal icons as individual themes
 
