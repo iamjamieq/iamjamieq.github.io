@@ -113,19 +113,6 @@ MD5sum: e31156a771602d05e934bf25027268d8
 Sponsor: 
 Description: Hides rotation lock icon from status bar. 
 
-Package: com.iamjamieq.iamjamieqfingalicons
-Name: Fingal Icons by iamjamieq
-Architecture: iphoneos-arm
-Depiction: 
-Maintainer: 
-Author: iamjamieq <jameslitvak@gmail.com>
-Version: 1.0-12Section: Addons (Fingal)
-Filename: /debs/com.iamjamieq.fingalicons_1.0-12_iphoneos-arm.deb
-Size: 3996392
-MD5sum: b65d9eaee4eea958e3678fa8dddb3f52
-Sponsor: 
-Description: iamjamieq's Fingal icons as individual themes
-
 Package: com.iamjamieq.kitkatbatteryfullcolor
 Name: KitKat Battery Full Color
 Architecture: iphoneos-arm
